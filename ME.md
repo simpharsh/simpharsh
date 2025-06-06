@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently intern in Sparks to idea company .<br>I'm student of Computer Science Engineer .<br>I'm currently learning ML and AI .<br>You can ask me about web development , DSA , C And basic python.<br>As a fun fact i forget names easily but not syntax . 
+I'm currently intern in Keryar company .<br>I'm student of Computer Science Engineer .<br>I'm currently learning ML and AI .<br>You can ask me about web development , DSA , C And basic python.<br>As a fun fact i forget names easily but not syntax . 
 
 
 ## 🌐 Socials:
